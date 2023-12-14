@@ -1,0 +1,15 @@
+/Users/Chad/ATU/OOSD1/CA2/CA2/bin/Debug/net7.0/CA2
+/Users/Chad/ATU/OOSD1/CA2/CA2/bin/Debug/net7.0/CA2.deps.json
+/Users/Chad/ATU/OOSD1/CA2/CA2/bin/Debug/net7.0/CA2.runtimeconfig.json
+/Users/Chad/ATU/OOSD1/CA2/CA2/bin/Debug/net7.0/CA2.dll
+/Users/Chad/ATU/OOSD1/CA2/CA2/bin/Debug/net7.0/CA2.pdb
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.csproj.AssemblyReference.cache
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.AssemblyInfoInputs.cache
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.AssemblyInfo.cs
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.csproj.CoreCompileInputs.cache
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.dll
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/refint/CA2.dll
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.pdb
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/CA2.genruntimeconfig.cache
+/Users/Chad/ATU/OOSD1/CA2/CA2/obj/Debug/net7.0/ref/CA2.dll
